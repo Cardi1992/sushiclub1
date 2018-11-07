@@ -1665,33 +1665,36 @@ body {
 .cid-r8K5IkyaqE H5 {
   color: #ffffff;
 }
-.cid-r8K99ifA4A {
+.cid-r8KhVmEKq9 {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/duzajy8w4aa80w2-1200x1200.jpg");
 }
-.cid-r8K99ifA4A .title {
+.cid-r8KhVmEKq9 .title {
   margin-bottom: 2rem;
 }
-.cid-r8K99ifA4A .mbr-section-subtitle {
+.cid-r8KhVmEKq9 .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-r8K99ifA4A a:not([href]):not([tabindex]) {
+.cid-r8KhVmEKq9 a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
-.cid-r8K99ifA4A a.btn-white:not([href]):not([tabindex]) {
+.cid-r8KhVmEKq9 a.btn-white:not([href]):not([tabindex]) {
   color: #333;
 }
-.cid-r8K99ifA4A .multi-horizontal {
+.cid-r8KhVmEKq9 .multi-horizontal {
   flex-grow: 1;
   -webkit-flex-grow: 1;
   max-width: 100%;
 }
-.cid-r8K99ifA4A .input-group-btn {
+.cid-r8KhVmEKq9 .input-group-btn {
   display: block;
   text-align: center;
 }
-.cid-r8K99ifA4A B {
+.cid-r8KhVmEKq9 H2 {
   color: #ffffff;
+}
+.cid-r8KhVmEKq9 B {
+  color: #efefef;
 }
